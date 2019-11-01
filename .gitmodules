@@ -16,3 +16,6 @@
 [submodule "mint-ui-lit"]
 	path = mint-ui-lit
 	url = git@github.com:mintproject/mint-ui-lit.git
+[submodule "mint-server"]
+	path = mint-server
+	url = git@github.com:mintproject/mint-server.git
