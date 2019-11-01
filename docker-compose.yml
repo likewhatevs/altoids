@@ -1,0 +1,6 @@
+version: "3.7"
+services:
+  mint-ui:
+    build:
+      context: ./mint-ui-lit
+      dockerfile: Dockerfile

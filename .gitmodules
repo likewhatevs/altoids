@@ -1,0 +1,18 @@
+[submodule "wings"]
+	path = wings
+	url = git@github.com:KnowledgeCaptureAndDiscovery/wings.git
+[submodule "pegasus"]
+	path = pegasus
+	url = git@github.com:pegasus-isi/pegasus.git
+[submodule "bmi"]
+	path = bmi
+	url = git@github.com:csdms/bmi.git
+[submodule "Web-Karma"]
+	path = Web-Karma
+	url = git@github.com:usc-isi-i2/Web-Karma.git
+[submodule "ontosoft"]
+	path = ontosoft
+	url = git@github.com:KnowledgeCaptureAndDiscovery/ontosoft.git
+[submodule "mint-ui-lit"]
+	path = mint-ui-lit
+	url = git@github.com:mintproject/mint-ui-lit.git
